@@ -3,8 +3,6 @@
 
 A real-time to-do list web application with user authentication, task filtering, and REST API support.
 
----
-
 ## 🚀 Features
 
 - ✅ User Registration & Login
@@ -14,7 +12,6 @@ A real-time to-do list web application with user authentication, task filtering,
 - ✅ REST API support (via Django REST Framework)
 - ✅ PostgreSQL database backend
 
----
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +21,6 @@ A real-time to-do list web application with user authentication, task filtering,
 - **Frontend**: Django Templates (HTML + CSS)
 - **API Testing**: Postman / cURL
 
----
 
 ## 📦 Requirements
 
