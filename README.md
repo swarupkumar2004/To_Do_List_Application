@@ -153,3 +153,4 @@ todo_project/
 
 * Test the app on browser: [http://127.0.0.1:8000/tasks/](http://127.0.0.1:8000/tasks/)
 * Use Postman to test API endpoints with token/session authentication.
+```
