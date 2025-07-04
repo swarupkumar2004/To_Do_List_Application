@@ -142,28 +142,3 @@ todo_project/
 │   ├── wsgi.py
 ├── manage.py
 ```
-
----
-
-## 🧪 Testing
-
-* Test the app on browser: [http://127.0.0.1:8000/tasks/](http://127.0.0.1:8000/tasks/)
-* Use Postman to test API endpoints with token/session authentication.
-
----
-
-## 📜 License
-
-This project is open-source and free to use.
-
----
-
-## ✨ Author
-
-**Swarup Kumar** — *Feel free to reach out for contributions or feedback!*
-- A version with Markdown badges (pip, Django version, etc.)
-- Deployment guide (Heroku or PythonAnywhere)
-- Docker support setup
-
-Would you also like me to generate a sample `README.pdf` version from this?
-```
