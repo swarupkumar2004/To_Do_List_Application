@@ -1,12 +1,5 @@
 # To_Do_List_Application
-Here is a clean and complete **`README.md`** file for your **To-Do List Application** built with Django, Django Channels, Redis, PostgreSQL, and REST API:
-
----
-
-### 📘 `README.md`
-
-````markdown
-# 📝 To-Do List Application (Django + Channels + PostgreSQL + Redis)
+📝 To-Do List Application (Django + Channels + PostgreSQL + Redis)
 
 A real-time to-do list web application with user authentication, task filtering, and REST API support.
 
