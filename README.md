@@ -1,7 +1,9 @@
 # To_Do_List_Application
-#📝 To-Do List Application (Django + Channels + PostgreSQL + Redis)
+📝 To-Do List Application (Django + Channels + PostgreSQL + Redis)
 
 A real-time to-do list web application with user authentication, task filtering, and REST API support.
+
+---
 
 ## 🚀 Features
 
@@ -12,6 +14,7 @@ A real-time to-do list web application with user authentication, task filtering,
 - ✅ REST API support (via Django REST Framework)
 - ✅ PostgreSQL database backend
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -21,6 +24,7 @@ A real-time to-do list web application with user authentication, task filtering,
 - **Frontend**: Django Templates (HTML + CSS)
 - **API Testing**: Postman / cURL
 
+---
 
 ## 📦 Requirements
 
@@ -142,3 +146,10 @@ todo_project/
 │   ├── wsgi.py
 ├── manage.py
 ```
+
+---
+
+## 🧪 Testing
+
+* Test the app on browser: [http://127.0.0.1:8000/tasks/](http://127.0.0.1:8000/tasks/)
+* Use Postman to test API endpoints with token/session authentication.
