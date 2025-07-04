@@ -1,5 +1,12 @@
 # To_Do_List_Application
-📝 To-Do List Application (Django + Channels + PostgreSQL + Redis)
+Here is a clean and complete **`README.md`** file for your **To-Do List Application** built with Django, Django Channels, Redis, PostgreSQL, and REST API:
+
+---
+
+### 📘 `README.md`
+
+````markdown
+# 📝 To-Do List Application (Django + Channels + PostgreSQL + Redis)
 
 A real-time to-do list web application with user authentication, task filtering, and REST API support.
 
@@ -153,4 +160,27 @@ todo_project/
 
 * Test the app on browser: [http://127.0.0.1:8000/tasks/](http://127.0.0.1:8000/tasks/)
 * Use Postman to test API endpoints with token/session authentication.
+
+---
+
+## 📜 License
+
+This project is open-source and free to use.
+
+---
+
+## ✨ Author
+
+**Swarup Kumar** — *Feel free to reach out for contributions or feedback!*
+
+```
+
+---
+
+Let me know if you want:
+- A version with Markdown badges (pip, Django version, etc.)
+- Deployment guide (Heroku or PythonAnywhere)
+- Docker support setup
+
+Would you also like me to generate a sample `README.pdf` version from this?
 ```
